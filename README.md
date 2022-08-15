@@ -1,3 +1,4 @@
-# spaceship-titanic
+# ML and DS Competitions
 
-Creating a ML model for Kaggle Spaceship Titanic competition using CatBoost and backward feature selection
+Our team participates in different machine learning and data science competitions on Kaggle. Here we try to create effective 
+models to achieve the best score. Enjoy!
